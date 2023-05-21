@@ -1,6 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi👾, I'm Pratyush Birole</h1>
-I magically turn caffeine into code and transform bugs into features. Don't worry, I've got 99 problems, but a commit ain't one!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I magically turn caffeine into code and transform bugs into features. Don't worry, I've got 99 problems, but a commit ain't one!)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
