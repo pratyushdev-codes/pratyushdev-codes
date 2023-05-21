@@ -1,4 +1,5 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io){:height="250px" width="500px"}
+
 
 <h1 align="center">Hi👾, I'm Pratyush Birole</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
@@ -10,7 +11,7 @@
 
 
 
-#<center><h1>Language and Tools:<h1/><center/>
+<center><h1>Language and Tools:<h1/><center/>
 
 
 
