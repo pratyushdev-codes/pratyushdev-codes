@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi👾, I'm Pratyush Birole</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+magically+turn+caffeine+into+code+and+transform+bugs+into+features.%0ADon't+worry%2C+I've+got+99+problems%2C+but+a+commit+ain't+one!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6000F7&width=435&lines=I+magically+turn+caffeine+into+code+and+transform+bugs+into+features.+Don't+worry%2C+I've+got+99+problems%2C+but+a+commit+ain't+one!)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
