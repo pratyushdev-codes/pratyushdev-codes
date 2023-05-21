@@ -2,7 +2,7 @@
 <h1 align="center">Hi👾, I'm Pratyush Birole</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer](https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif).gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
