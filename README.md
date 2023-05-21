@@ -26,12 +26,12 @@
 
 
 
-
+<br/>Most used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushdev-codes&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  ### 🔝 Top Contributed Repo
+<br/>Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratyushdev-codes&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
+<br/>GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratyushdev-codes&theme=radical&no-frame=false&no-bg=true&margin-w=8)
 
 
