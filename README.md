@@ -34,6 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=pratyushdev-codes&theme=radical&no-frame=false&no-bg=true&margin-w=8)
 
 
+[![Raghav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
