@@ -20,6 +20,7 @@
 <div style="display: flex;"><p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushdev-codes&theme=swift&hide_border=false" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyushdev-codes&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><p/>
+    (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsraghavsharma&theme=tokyonight&border_radius=7.6)
 </div>
 
 
@@ -33,7 +34,7 @@
 
 
 
-[![Raghav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pratyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
