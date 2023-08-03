@@ -20,13 +20,12 @@
 <div style="display: flex;"><p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushdev-codes&theme=swift&hide_border=false" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyushdev-codes&theme=swift&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><p/>
-    (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsraghavsharma&theme=tokyonight&border_radius=7.6)
-</div>
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyushdev-codes&theme=tokyonight&border_radius=7.6)
 
-
+![Pratyush's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsraghavsharma&theme=tokyonight&border_radius=7.6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushdev-codes&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratyushdev-codes&limit=5&theme=matrix&combine_all_yearly_contributions=true)
