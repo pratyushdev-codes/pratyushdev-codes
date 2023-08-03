@@ -23,15 +23,14 @@
 </div>
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyushdev-codes&theme=tokyonight&border_radius=7.6)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushdev-codes&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratyushdev-codes&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyushdev-codes&theme=radical&no-frame=false&no-bg=true&margin-w=8)
+
 
 
 [![Raghav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
