@@ -36,43 +36,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 
-<table>
-    <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
-        </th>
-        <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
-        </th>
-    </tr>
-</table>
-
-<br>
-
-<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
 
 
 
-<table>
-    <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
-        </th>
-        <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
-        </th>
-    </tr>
-</table>
 
-<br>
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="contribution-graph-3d" width="100%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8" alt="activity-graph" width="100%">
-
-<a href="https://holopin.io/@arpitwastaken">
-    <img src="https://holopin.me/arpitwastaken">
-</a>
 
