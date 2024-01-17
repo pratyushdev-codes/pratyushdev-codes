@@ -43,10 +43,7 @@
 </div>
 
 
-#  GitHub Stats:
-[Pratyush's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushdev-codes&theme=tokyonight&border_radius=7.6)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratyushdev-codes&theme=tokyonight&border_radius=7.6) -->
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
