@@ -71,7 +71,7 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark) &nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyushdev-codes&theme=github_dark&utcOffset=8)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
