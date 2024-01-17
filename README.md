@@ -6,7 +6,7 @@
 
 
 
-<img align="center" alt="Coding" width="1000" height="500" src="https://iili.io/JYt7oCB.gif">
+<img align="center" alt="Coding"  src="https://iili.io/JYt7oCB.gif">
 
 
 
