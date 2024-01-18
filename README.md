@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
 
-<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://steamuserimages-a.akamaihd.net/ugc/914668728147110451/8567B746F07301A6CE5F4C483A19306E528BFE81/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://iili.io/JYtYgfI.gif">
 
 
 
