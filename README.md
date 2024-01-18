@@ -64,6 +64,6 @@ Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyushbirole/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/pratyushb_dev"><img src="https://iili.io/JYmrB9I.png" alt="Twitter Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:birole.pratyush@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:birole.pratyush@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
