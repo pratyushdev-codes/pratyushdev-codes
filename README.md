@@ -53,6 +53,12 @@ GitHub Stats:
  <!--  ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pratyushdev-codes&limit=5&theme=matrix&combine_all_yearly_contributions=true)-->
 
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+<br/>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyushdev-codes&theme=github_dark&utcOffset=8">
@@ -62,12 +68,6 @@ GitHub Stats:
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushdev-codes&theme=dark">
 </p>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-<br/>
-
-
 	
 Socials:
 <br/>
