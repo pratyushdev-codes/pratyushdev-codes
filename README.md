@@ -60,6 +60,7 @@ Contribution Graph:
 <br/>
 
 GitHub Stats:
+<br/>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,6 +68,7 @@ GitHub Stats:
 </p>
 
 Contribution History:
+<br/>
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratyushdev-codes&theme=dark">
 </p>
