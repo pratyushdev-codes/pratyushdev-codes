@@ -45,7 +45,7 @@
 
 
 
-GitHub Stats:
+Contribution Graph:
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
@@ -58,6 +58,8 @@ GitHub Stats:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <br/>
+
+GitHub Stats:
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
