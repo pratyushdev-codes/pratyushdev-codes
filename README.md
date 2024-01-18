@@ -61,10 +61,9 @@ GitHub Stats:
 
 Socials:
 <br/>
-Socials:
-<br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyushbirole/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>
-  <a href="https://twitter.com/pratyushb_dev"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32"></a>
-  <a href="mailto:birole.pratyush@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>
+  <a href="https://www.linkedin.com/in/pratyushbirole/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/pratyushb_dev"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:birole.pratyush@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
+
