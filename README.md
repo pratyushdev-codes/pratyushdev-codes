@@ -60,3 +60,5 @@ GitHub Stats:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushdev-codes&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 
 Socials:
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pratyushbirole/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/pratyushb_dev) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:birole.pratyush@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
