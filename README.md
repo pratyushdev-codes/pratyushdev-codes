@@ -64,7 +64,7 @@ GitHub Stats:
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyushdev-codes&theme=github_dark&utcOffset=8" style="margin-left: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyushdev-codes&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
 </p>
 
 
