@@ -83,6 +83,6 @@ Socials:
 </p>
 
 Recent Projects:
-<p align ="center">
-Check out my most recent project at : https://msdhoniacademy.com
-</p>
+<h7 align ="center">
+Check out my most recent project at: https://msdhoniacademy.com
+</h7>
