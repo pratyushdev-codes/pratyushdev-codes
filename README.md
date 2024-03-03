@@ -82,3 +82,7 @@ Socials:
   <a href="mailto:birole.pratyush@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+Recent Projects:
+<p align ="center">
+Check out my most recent project at : https://msdhoniacademy.com
+</p>
