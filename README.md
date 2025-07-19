@@ -10,7 +10,10 @@
 
 [comment]: # (<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://iili.io/JYtYgfI.gif">)
 
-<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://64.media.tumblr.com/106576f6a0505d1df5fa3bd32e20d2ba/tumblr_mlts21WRse1s4xgf2o1_500.gif">
+[comment]: # (<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://64.media.tumblr.com/106576f6a0505d1df5fa3bd32e20d2ba/tumblr_mlts21WRse1s4xgf2o1_500.gif">)
+
+<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://www.nippon.com/en/ncommon/contents/japan-data/2772464/2772464.jpg">
+
 
 
 <center><h1>Language and Tools:<h1/><center/>
